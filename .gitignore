@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+build/
+.env
+training_output/
+venv/
+.venv/
+.ipynb_checkpoints/
+backend/saved_models/
+"Diverse Fetal Head Images/"

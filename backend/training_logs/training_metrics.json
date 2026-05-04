@@ -1,0 +1,21 @@
+{
+  "best_val_dice": 0.9699800282716751,
+  "total_epochs": 50,
+  "total_time_minutes": 175.64,
+  "final_train_loss": 0.03677813171208659,
+  "final_val_loss": 0.04060211945325136,
+  "best_val_dice_classes": {
+    "Background": 0.9865672945976257,
+    "Head": 0.9696960672736168,
+    "Mean": 0.9696960672736168
+  },
+  "hyperparameters": {
+    "epochs": 50,
+    "batch_size": 8,
+    "lr": 0.001,
+    "patience": 10,
+    "dataset_dir": null,
+    "save_dir": null
+  },
+  "timestamp": "2026-04-17T04:16:20.637626"
+}
